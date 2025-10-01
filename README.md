@@ -30,6 +30,7 @@ Algunos de mis proyectos académicos y personales:
 📌 *Proyecto académico de Programación Orientada a Objetos (POO).*  
 🛠️ *Tecnologías*: **Java**, **POO**  
 📖 *Funcionalidades*: gestión de usuarios, vehículos y ofertas; interfaz gráfica con ventanas para hacer y aceptar ofertas.  
+💡 *Uso de tecnologías*: **Java** se utilizó para programar la lógica de las clases de usuario, vehículo y oferta. **POO** permitió organizar el código en clases y objetos, facilitando la extensión de funcionalidades.  
 
 ---
 
@@ -37,6 +38,7 @@ Algunos de mis proyectos académicos y personales:
 📌 *Proyecto académico de la materia Estructuras de Datos.*  
 🛠️ *Tecnologías*: **Java**, **JavaFX**, **POO**  
 📖 *Funcionalidades*: gestión de vuelos y aeropuertos, búsqueda de rutas, estadísticas, exportación de datos a PDF, CRUD de vuelos y aeropuertos.  
+💡 *Uso de tecnologías*: **Java** y **POO** para modelar aeropuertos, vuelos y rutas. **JavaFX** permitió crear interfaces gráficas interactivas y visualización de datos.  
 
 ---
 
@@ -53,16 +55,21 @@ Mis principales áreas de interés dentro de la computación son:
 ---
 
 ## 🛠️ Tecnologías  
-Algunas herramientas y lenguajes que utilizo:  
+Algunas herramientas y lenguajes que utilizo y cómo los aplico en mis proyectos:  
 
-| Categoría            | Tecnologías |
-|----------------------|-------------|
-| **Lenguajes**        | Python , Java , C |
-| **Machine Learning & Data** | Pandas , NumPy, Jupyter  |
-| **Bases de Datos**   | MySQL  |
-| **Control de versiones** | Git , GitHub |
-| **Diseño y UX**      | Figma  |
-| **Otros**            | Linux  |
+| Tecnología | Uso en los proyectos |
+|------------|--------------------|
+| **Python** | Para análisis de datos y scripts de apoyo (proyectos de ciencia de datos y machine learning). |
+| **Java**   | Lenguaje principal para desarrollar la lógica y funcionalidades en **SistemaVentaVehiculo** y **ProyectoEstructuras**. |
+| **C**      | Para prácticas y ejercicios académicos de estructuras y algoritmos. |
+| **Pandas** | Manejo y análisis de datos en mis prácticas |
+| **NumPy**  | Operaciones matemáticas y manejo de matrices/datos numéricos en proyectos de ML. |
+| **Jupyter**| Documentación y ejecución de notebooks para experimentos de Machine Learning. |
+| **MySQL**  | Gestión de bases de datos para almacenar información de usuarios, vehículos y vuelos. |
+| **Git**    | Control de versiones de todos los proyectos, seguimiento de cambios y colaboración. |
+| **GitHub** | Plataforma para alojar repositorios, seguimiento de issues y despliegue de GitHub Pages. |
+| **Figma**  | Diseño de interfaces y prototipos de los proyectos con enfoque en UX/UI. |
+| **Linux**  | Entorno de desarrollo para ejecutar y probar proyectos, scripts y herramientas. |
 
 ---
 
