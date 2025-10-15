@@ -42,6 +42,34 @@ Algunos de mis proyectos académicos y personales:
 
 ---
 
+### 🔹[ClientesClusteringKMeans](https://github.com/angie329/Workshop_-CIENCIA-DE-DATOS.git)
+📌 Proyecto de análisis y segmentación de clientes mediante Machine Learning no supervisado (K-Means).
+🛠️ Tecnologías: Python, pandas, numpy, matplotlib, seaborn, scikit-learn
+📖 Funcionalidades:
+-Carga y limpieza de dataset de clientes
+-Visualización de datos (scatter plots, clusters)
+-Determinación del número óptimo de clusters con el método del codo
+-Entrenamiento y predicción de clusters usando K-Means
+
+Interpretación de clusters y recomendaciones de marketing
+💡 Uso de tecnologías: Python permitió manejar y analizar los datos de manera eficiente. pandas y numpy para manipulación de datos, matplotlib y seaborn para visualización, y scikit-learn para el modelo de K-Means. El proyecto demuestra cómo aplicar Machine Learning a problemas reales de segmentación de clientes.
+
+---
+
+🔹 DiabetesRiskAnalysis
+📌 Proyecto académico del curso Samsung Innovation Campus – Módulo Python (Ecuador 2025).
+🛠️ Tecnologías: Python, pandas, numpy, matplotlib, seaborn
+📖 Funcionalidades:
+-Preprocesamiento de datos médicos y de estilo de vida.
+-Limpieza de duplicados y valores nulos, selección de columnas relevantes.
+-Análisis estadístico descriptivo y avanzado de riesgo de diabetes.
+-grupación y comparación de variables por género, edad, IMC, actividad física y antecedentes familiares.
+
+Visualización y cálculo de métricas clave: riesgo promedio, prevalencia, correlaciones, análisis por clusters de actividad física.
+💡 Uso de tecnologías: Python permitió implementar un pipeline completo de preprocesamiento y análisis. pandas y numpy facilitaron la manipulación de datos; matplotlib y seaborn generaron visualizaciones claras; la lógica del análisis incluyó estadística descriptiva, medidas avanzadas y agrupaciones por variables categóricas y numéricas.
+
+---
+
 ## 🎯 Intereses  
 Mis principales áreas de interés dentro de la computación son:  
 
